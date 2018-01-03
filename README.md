@@ -9,7 +9,7 @@ The Source code was generated via [create-react-app](https://github.com/facebook
     
     a. ```import { connect } from 'react-redux'```
     
-    b. ```connect(mapStateToProps)(Counter)```
+    b. ```connect()(Counter)```
 2. Map State to Props
 
     a. create ```mapStateToProps``` function
